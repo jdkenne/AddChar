@@ -16,8 +16,8 @@ public class addChar {
     }
 
     public static void main(String[] args) {
-        addChar police = new addChar('J', 'A', 'V', 'A');
-        System.out.println(police);
+        addChar language = new addChar('J', 'A', 'V', 'A');
+        System.out.println(language);
     }
 
 }
